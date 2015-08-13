@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'byebug'
 gem 'web-console', '~> 2.0'
 gem 'spring'
+gem 'challonge-api'
 
 #learn-rails
 gem 'foundation-rails'
